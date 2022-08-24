@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielBundor
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python & R
-- 💞️ I’m looking to collaborate on projects involving these two languages that would improve my skills as a beginner.
+- 👀 I’m interested in Software Quality Assurance
+- 🌱 I’m currently learning QA
+- 💞️ I’m looking to eventually launch a career in QA
 - 📫 How to reach me; you can reach me at Cbundor91@gmail.com
 
 <!---
