@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielBundor!
-- 👀 I’m interested in Agile & DevOps.
+- 👀 I’m interested in DevOps.
 - 🌱 I’m a DevOps Engineer at IBT Learning..
 - 💞️ I’m looking forward to exploring the DevOps approach and to eventually contribute to the DevOps community...
 - 📫 How to reach me; you can reach me at Cbundor91@gmail.com
