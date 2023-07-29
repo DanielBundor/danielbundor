@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielBundor!
-- 👀 I’m interested in DevOps.
-- 🌱 I’m a DevOps Engineer at IBT Learning..
-- 💞️ I’m looking forward to exploring the DevOps approach and to eventually contribute to the DevOps community...
+- 👀 I’m interested in the Microsoft Azure cloud platform and DevOps.
+- 🌱 I’m also a student of computer science at Southern New Hampshire University. 
+- 💞️ I’m currently on a journey to building a genius character in the Microsoft Azure cloud platform. I'm an Azure Administrator, Developer, and DevOps Engineer.
 - 📫 How to reach me; you can reach me at danielbundor91@gmail.com
 
 <!---
