@@ -1,50 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link
-      href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"
-      rel="stylesheet"
-    />
 
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="My name is Daniel Bundor. I am a student of computer science at Southern New Hampshire University. I am also interested in DevOps engineering with a strong desire to develop genius-level expertise in the Microsoft Azure cloud platform. I am passionate about giving back to the Azure DevOps and computer science communities, and my goal is to pursue this passion within the field of Azure DevOps and computer science. In my free time I enjoy learning new things."
-    />
-    <link rel="apple-touch-icon" href="logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <meta property="twitter:image" content="%PUBLIC_URL%/social-image.png" />
-    <meta property="og:image" content="%PUBLIC_URL%/social-image.png" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daniel Bundor - Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>Daniel Bundor</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome to my personal website! I am passionate about computer science, DevOps and cloud computing. 
+              I love continuous learning and exploring new ideas and concepts. Here, you can learn more about me, 
+              explore my portfolio, and get in touch with me.</p>
+        </section>
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <!-- Add your portfolio items here -->
+            <!-- Example: -->
+            <!-- <div class="project">
+                <img src="project-image.jpg" alt="Project Image">
+                <h3>Project Title</h3>
+                <p>Project Description</p>
+            </div> -->
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <form>
+                <input type="text" placeholder="Your Name">
+                <input type="email" placeholder="Your Email">
+                <textarea placeholder="Your Message"></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+
 </html>
