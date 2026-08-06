@@ -43,7 +43,7 @@ Government engagement planned Q4 2026.
 
 - Accepted — Founder Institute Silicon Valley Fall 2026
 - Microsoft Partner Network — Areteos LLC
-- AZ-900 Certified — pursuing AZ-104 and AI-102
+- AZ-900 Certified — pursuing AI-900 and AZ-104
 
 ## 📫 Reach Me
 
