@@ -1,6 +1,6 @@
 # Daniel Bundor
 
-Liberian-born technologist, cloud engineer, and founder building 
+Liberian-born technologist, cloud & devops engineer, and founder building 
 sovereign digital infrastructure for Africa.
 
 ## 👨🏾‍💻 What I Do
