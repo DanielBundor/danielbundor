@@ -3,11 +3,11 @@
 **Campaign:** Enterprise Strategy-to-Production Intelligence Research  
 **Time zone:** Central Standard Time (CST, UTC−06:00)  
 **Publishing method:** Manual; user approval required  
-**Status as of 2026-11-16:** Story 1 publication link supplied by founder; live post content/time not independently verified.
+**Status as of 2026-11-17:** Founder confirmed Story 1 was manually published November 16 at 9:00 AM CST.
 
 | ID | Target date | Time | Story | Editorial status | Approval | Publication | Post URL |
 |---|---|---|---|---|---|---|---|
-| S1 | 2026-11-16 | 9:00 AM CST (target) | The Question That Stayed With Me | Final draft | Founder shared post URL | Reported published; external verification unavailable | https://lnkd.in/p/gXTaVnrA |
+| S1 | 2026-11-16 | 9:00 AM CST | The Question That Stayed With Me | Final draft | Founder approved and published | Published (founder-confirmed) | https://lnkd.in/p/gXTaVnrA |
 | S2 | 2026-11-19 | TBD | Having Information Is Not the Same as Having Visibility | Drafted | Pending | Not published | — |
 | S3 | 2026-11-23 | TBD | Why I'm Asking Others: research invitation | Pending | Pending | Not published | — |
 
@@ -25,7 +25,7 @@
 
 | Story | Actual published (CST) | Impressions | Reactions | Comments | Reposts | Survey clicks (if measurable) | Relevant conversations |
 |---|---|---:|---:|---:|---:|---:|---:|
-| S1 | Time unverified | — | — | — | — | — | — |
+| S1 | 2026-11-16 9:00 AM CST | — | — | — | — | — | — |
 | S2 | — | — | — | — | — | — | — |
 | S3 | — | — | — | — | — | — | — |
 
